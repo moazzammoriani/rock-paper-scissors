@@ -6,7 +6,7 @@
 }
 
 header {
-    background-color: pink;
+    background-color: #7f917d;
     text-align: center;
     height: 100px;
     padding: 30px 0;
@@ -84,19 +84,7 @@ main {
     width: 62px;
 }
 
-.rock-optn:hover {
-    background-color: #00ffff;
-
+.optn:hover {
+    background-color: #7f917d;
 }
-
-.paper-optn:hover {
-    background-color: #ff00ff;
-}
-
-.scissors-optn:hover {
-    background-color: #ffff00;
-}
-
-
-
 
